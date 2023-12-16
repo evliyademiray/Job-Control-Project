@@ -1,9 +1,22 @@
-# React + Vite
+This is Job Control project created by React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-Used Axios take data from Database.
 
-Currently, two official plugins are available:
+-Used React-Redux.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Job-Control-Project
+-Also have used various React Hooks.
+
+-You can add new job use "İş ekle" button.
+
+-Be able to filter and sort jobs owing to Status, Type, Date and Alphabetic .
+
+-Have React-Router-Dom to pagination.
+
+-Used Toast library for notification.
+
+-The buttons from "uiverse.io".
+
+-Also have Loader working before data comes.
+
+
+![job-control](https://github.com/evliyademiray/Job-Control-Project/assets/139562305/8d7dd7dd-afe5-4493-bfd3-fe513556ec1c)
